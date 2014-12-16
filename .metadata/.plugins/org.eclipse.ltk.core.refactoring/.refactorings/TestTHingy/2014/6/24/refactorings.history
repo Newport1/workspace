@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;TeaParty.b5&apos;&#x0A;- Original project: &apos;TestTHingy&apos;&#x0A;- Destination element: &apos;TeaParty.b5&apos;&#x0A;- Original element: &apos;TeaParty.b6&apos;" description="Copy field" destination="/src&lt;{TeaParty.java[TeaParty^b5" element1="/src&lt;{TeaParty.java[TeaParty^b6" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1402360596543" version="1.0"/>
+</session>
